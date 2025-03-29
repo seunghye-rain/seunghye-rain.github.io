@@ -1,3 +1,8 @@
+# 실습 내용
+<img width="900" alt="스크린샷 2025-03-29 오후 9 35 53" src="https://github.com/user-attachments/assets/38bfff8a-21c6-43d9-8a02-dc719a82e2f0" />
+
+
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
